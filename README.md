@@ -1,5 +1,5 @@
 # sentinel_C
-1st year/ entry level university pattern in C. Written using the vim editor, algorithm not considered important in this source code.
+1st year/ entry level university pattern written in C using the vim editor. Algorithm not considered important in this source code.
 
 ## Basic skills used
 
