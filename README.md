@@ -7,4 +7,4 @@
 - Type casting
 - While loop
 - Vim editor
-- Creationnof Git Repo
+- Creation of Git Repo/ upload via terminal commands
